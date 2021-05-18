@@ -89,5 +89,6 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
+    console.log ("Aca meto un cambio como ejercicio");
   }
   main();
